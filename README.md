@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://dhanushb-portfolio.netlify.app/](https://dhanushb-portfolio.netlify.app/)
 
-- 💬 Ask me about **react, spring**
+- 💬 Ask me about **Javascript, Node, react, spring**
 
 - 📫 How to reach me **dhanushcse12@gmail.com**
 
