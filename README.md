@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Dhanush B</h1>
-<h3 align="center">A passionate Web Application Developer with expertise in the MERN stack and a strong understanding of Spring Boot.</h3>
+<h3 align="center">Motivated Full Stack Developer with hands-on experience in building scalable, user-friendly web applications using
+technologies such as React.js, Java, Spring Boot, Node.js, and MongoDB. Adept in JavaScript, API development, and
+problem-solving with a strong focus on performance optimization, security, and database management.
+</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhanush9438&label=Profile%20views&color=0e75b6&style=flat" alt="dhanush9438" /> </p>
 
